@@ -1,15 +1,13 @@
 {
   "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
   "about": {
     "title": "About",
     "type": "page"
   },
   "contact": {
-    "title": "Contact ↗",
+    "title": "Discord ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://cdn.discordapp.com/users/884065350742859796",
     "newWindow": true
   }
 }
